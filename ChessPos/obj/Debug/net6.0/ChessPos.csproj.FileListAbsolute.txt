@@ -1,0 +1,15 @@
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.csproj.AssemblyReference.cache
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.AssemblyInfoInputs.cache
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.AssemblyInfo.cs
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.csproj.CoreCompileInputs.cache
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\bin\Debug\net6.0\ChessPos.exe
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\bin\Debug\net6.0\ChessPos.deps.json
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\bin\Debug\net6.0\ChessPos.runtimeconfig.json
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\bin\Debug\net6.0\ChessPos.dll
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\bin\Debug\net6.0\ChessPos.pdb
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.dll
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\refint\ChessPos.dll
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.pdb
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ChessPos.genruntimeconfig.cache
+C:\Users\ibaikov\source\repos\ChessPos\ChessPos\obj\Debug\net6.0\ref\ChessPos.dll
